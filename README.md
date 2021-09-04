@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthik262003
 - 👀 I’m interested in Webdevelopment and exploring
-- 🌱 I’m currently learning javascript and react and AI
+- 🌱 I’m currently learning java
 - 📫 How to reach me :
 - Gmail:karthikkanisettypalli@gmail.com
 - Linkdin profile:https://www.linkedin.com/in/karthik-k-b70850200
