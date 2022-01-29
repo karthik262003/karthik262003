@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karthik262003
-- 👀 I’m interested in Webdevelopment and exploring
+-
 - 🌱 I’m currently learning java
 - 📫 How to reach me :
 - Gmail:karthikkanisettypalli@gmail.com
